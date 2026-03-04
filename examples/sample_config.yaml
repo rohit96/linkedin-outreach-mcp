@@ -1,0 +1,11 @@
+# LinkedIn Outreach MCP — Configuration
+# This file is auto-created at ~/.linkedin-outreach-mcp/config.yaml
+
+daily_limits:
+  connection_requests: 20   # Max connection requests per day
+  messages: 30              # Max DMs per day
+
+delays:
+  between_actions: 2        # Seconds between UI actions
+  between_prospects: 5      # Seconds between processing prospects
+  page_load: 3              # Seconds to wait for page loads

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Jane Doe",
+    "title": "VP of Product at CloudCo",
+    "company": "CloudCo",
+    "location": "San Francisco, CA",
+    "linkedin_url": "https://www.linkedin.com/in/janedoe-example/",
+    "status": "Discovered",
+    "region": "san francisco",
+    "connection_note": "",
+    "followup_message": "",
+    "sent_at": null,
+    "accepted_at": null,
+    "followup_at": null,
+    "source": "search"
+  },
+  {
+    "name": "John Smith",
+    "title": "Director of Growth at StartupXYZ",
+    "company": "StartupXYZ",
+    "location": "New York, NY",
+    "linkedin_url": "https://www.linkedin.com/in/johnsmith-example/",
+    "status": "Ready",
+    "region": "new york",
+    "connection_note": "Hi John, I noticed we're both in the SaaS space. I'm a product leader exploring growth strategies — would love to connect!",
+    "followup_message": "",
+    "sent_at": null,
+    "accepted_at": null,
+    "followup_at": null,
+    "source": "search"
+  },
+  {
+    "name": "Sarah Johnson",
+    "title": "Head of Marketing at FinTechPro",
+    "company": "FinTechPro",
+    "location": "London, UK",
+    "linkedin_url": "https://www.linkedin.com/in/sarahjohnson-example/",
+    "status": "Sent",
+    "region": "london",
+    "connection_note": "Hi Sarah, impressive work at FinTechPro! I'm in product/growth and keen to connect with marketing leaders in London.",
+    "followup_message": "Hi Sarah, thanks for connecting! Would love to hear about the London fintech scene. Open to a quick chat?",
+    "sent_at": "2026-02-28T10:30:00",
+    "accepted_at": null,
+    "followup_at": null,
+    "source": "import"
+  }
+]

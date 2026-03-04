@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "linkedin-outreach-mcp"
+version = "0.1.0"
+description = "MCP server for LinkedIn outreach automation — discover prospects, send personalized connections, and track your pipeline from Claude Code."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "Rohit G" }]
+keywords = ["linkedin", "outreach", "mcp", "claude-code", "automation", "networking"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Communications",
+    "Topic :: Office/Business",
+]
+dependencies = [
+    "mcp>=1.0.0",
+    "playwright>=1.40.0",
+    "pyyaml>=6.0.1",
+]
+
+[project.scripts]
+linkedin-outreach-mcp = "linkedin_outreach_mcp:main"
+
+[project.urls]
+Homepage = "https://github.com/rohitg00/linkedin-outreach-mcp"
+Repository = "https://github.com/rohitg00/linkedin-outreach-mcp"
+Issues = "https://github.com/rohitg00/linkedin-outreach-mcp/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/linkedin_outreach_mcp"]

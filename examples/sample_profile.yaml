@@ -1,0 +1,32 @@
+# LinkedIn Outreach MCP — User Profile
+# This file is auto-created at ~/.linkedin-outreach-mcp/profile.yaml
+# Used to personalize connection notes and follow-up messages.
+
+name: "Alex"
+
+headline: "Senior Product Manager | B2B SaaS"
+
+current_role:
+  title: "Senior Product Manager"
+  company: "TechCorp"
+
+location: "San Francisco, CA"
+
+summary: |
+  Experienced product manager with a passion for building B2B SaaS
+  products that drive measurable business outcomes. Focused on
+  growth, analytics, and cross-functional collaboration.
+
+skills:
+  - "Product Management"
+  - "B2B SaaS"
+  - "Growth Strategy"
+  - "Data Analytics"
+  - "Cross-functional Leadership"
+
+industries:
+  - "Technology"
+  - "SaaS"
+  - "Enterprise Software"
+
+networking_goal: "Building connections with product and growth leaders in the Bay Area tech ecosystem"
