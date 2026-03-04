@@ -28,9 +28,9 @@ dependencies = [
 linkedin-outreach-mcp = "linkedin_outreach_mcp:main"
 
 [project.urls]
-Homepage = "https://github.com/rohitg00/linkedin-outreach-mcp"
-Repository = "https://github.com/rohitg00/linkedin-outreach-mcp"
-Issues = "https://github.com/rohitg00/linkedin-outreach-mcp/issues"
+Homepage = "https://github.com/rohit96/linkedin-outreach-mcp"
+Repository = "https://github.com/rohit96/linkedin-outreach-mcp"
+Issues = "https://github.com/rohit96/linkedin-outreach-mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/linkedin_outreach_mcp"]

@@ -22,7 +22,7 @@ Discover / Import → Personalize Notes → Send Connections → Track Acceptanc
 ### 1. Install
 
 ```bash
-git clone https://github.com/rohitg00/linkedin-outreach-mcp.git
+git clone https://github.com/rohit96/linkedin-outreach-mcp.git
 cd linkedin-outreach-mcp
 pip install .
 ```
@@ -203,7 +203,7 @@ Claude: [Checks acceptances, reads new conversations]
 
 ```bash
 # Clone
-git clone https://github.com/rohitg00/linkedin-outreach-mcp.git
+git clone https://github.com/rohit96/linkedin-outreach-mcp.git
 cd linkedin-outreach-mcp
 
 # Install in development mode
